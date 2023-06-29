@@ -1,0 +1,37 @@
+body {
+  background-color: #cbf6;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+a {
+  color: #9bc472;
+}
+.homepage-link {
+  margin-right: 20px;
+}
+.contact-link {
+  margin-left: 20px;
+}
+.about-body {
+  background-color: #cbf6db;
+}
+.contact-us {
+  background-color: #f5beb4;
+}
+.links {
+  text-align: center;
+}
+.croissant-picture {
+  display: flex;
+  justify-content: center;
+}
+.croissant {
+  max-width: 50%;
+  height: auto;
+
+  justify-content: center;
+}
